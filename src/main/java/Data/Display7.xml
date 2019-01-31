@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Game>
+<player player_name="Pablo">
+<match>5-5-10-1-</match>
+<totalscore>20</totalscore>
+</player>
+<player player_name="Jose J">
+<match/>
+<totalscore>0</totalscore>
+</player>
+<game lane="7">
+<teamname>Equipo</teamname>
+<datetime>23/01/2019 17:10:08</datetime>
+</game>
+</Game>

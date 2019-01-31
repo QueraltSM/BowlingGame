@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Game>
+<player player_name="X1">
+<match/>
+<totalscore>0</totalscore>
+</player>
+<player player_name="X2">
+<match/>
+<totalscore>0</totalscore>
+</player>
+<game lane="4">
+<teamname>absa</teamname>
+<datetime>23/01/2019 16:10:43</datetime>
+</game>
+</Game>

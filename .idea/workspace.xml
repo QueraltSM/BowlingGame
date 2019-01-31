@@ -1,0 +1,1231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7762f364-03d3-43ce-9ba9-679122471492" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/jax-ws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/jaxws-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/META-INF/jax-ws-catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/META-INF/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/a2/clientwsgeoip/A2ClientWSGeoIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/src/a2/clientwsgeoip/IP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP-master/xml-resources/web-service-references/geoipservice/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/manifest.mf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/jax-ws.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/jaxws-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/META-INF/jax-ws-catalog.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/META-INF/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/a2/clientwsgeoip/A2ClientWSGeoIP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/src/a2/clientwsgeoip/IP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A2-ClientWSGeoIP/xml-resources/web-service-references/geoipservice/wsdl/www.webservicex.net/geoipservice.asmx.wsdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/ant-deploy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/build-impl.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/genfiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/project.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/nbproject/rest-build.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/conf/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/conf/persistence.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/DiscountCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/Manufacturer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/MicroMarket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/ProductCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/PurchaseOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/AbstractFacade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/CustomerFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/DiscountCodeFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ManufacturerFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/MicroMarketFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ProductCodeFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/ProductFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/src/java/sample/service/PurchaseOrderFacadeREST.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/app.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/cc.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/cg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/collapse.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/css_master-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/expand.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/background_border_bottom.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/bg_gradient.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/level1_deselect.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/level1_selected-1lvl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/masthead.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/masthead_link_enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/masthead_link_roll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbdis.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbena.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbmou.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pbsel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/pname.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/primary-enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/primary-roll.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/secondary-enabled.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/tbsel.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/images/tbuns.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/item.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/og.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/test-resbeans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/test-resbeans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A3-RestfulWSDB/web/test-resbeans.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Data/Log" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Data/Log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/ionic.config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-hdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-ldpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-mdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-xhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-xxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/icon/drawable-xxxhdpi-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-land-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-hdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-ldpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-mdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-xhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-xxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/android/splash/drawable-port-xxxhdpi-screen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-50@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-72@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-small.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-small@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon-small@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/icon/icon@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-568h@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-667h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape-736h.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Landscape~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Portrait@2x~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Portrait@~ipadpro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default-Portrait~ipad.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default@2x~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default@2x~universal~anyany.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/ios/splash/Default~iphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/resources/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/app/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/assets/icon/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/assets/imgs/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/configuration/configuration.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/info/info.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/login/login.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/registration/registration.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/pages/search-doctors/search-doctors.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/providers/auth/auth.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/src/theme/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Psychiapp/tslint.json" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-296856434">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1131" />
+          <entry key="xml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1131" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2032029753">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="73" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.109" value="1" />
+          <entry key="project.open.time.116" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="3" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="3" />
+          <entry key="project.open.time.25" value="2" />
+          <entry key="project.open.time.26" value="2" />
+          <entry key="project.open.time.27" value="2" />
+          <entry key="project.open.time.28" value="2" />
+          <entry key="project.open.time.29" value="3" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.32" value="2" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.open.time.42" value="3" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="2" />
+          <entry key="project.open.time.47" value="2" />
+          <entry key="project.open.time.48" value="3" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.53" value="3" />
+          <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.60" value="3" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.64" value="2" />
+          <entry key="project.open.time.66" value="2" />
+          <entry key="project.open.time.67" value="2" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.opened" value="74" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Log" value="1" />
+          <entry key="css" value="31" />
+          <entry key="dummy" value="59" />
+          <entry key="fxml" value="1" />
+          <entry key="java" value="57851" />
+          <entry key="xml" value="361" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="31" />
+          <entry key="JAVA" value="57851" />
+          <entry key="PLAIN_TEXT" value="60" />
+          <entry key="XML" value="362" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Dataset" value="3" />
+          <entry key="Display" value="1" />
+          <entry key="Log" value="9" />
+          <entry key="css" value="2" />
+          <entry key="fxml" value="2" />
+          <entry key="java" value="363" />
+          <entry key="jpg" value="5" />
+          <entry key="xml" value="149" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="2" />
+          <entry key="Image" value="5" />
+          <entry key="JAVA" value="363" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="XML" value="151" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="695131748">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.54" value="1" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Log" value="4" />
+          <entry key="java" value="72" />
+          <entry key="xml" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="72" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="3084" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="3084" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Player_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-999">
+              <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Serialization_.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="44" column="57" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>nameColumn</find>
+      <find>javafx-packager</find>
+      <find>serializ</find>
+      <find>data</find>
+      <find>#</find>
+      <find>place</find>
+      <find>color</find>
+      <find>a4</find>
+      <find>display</find>
+      <find>display0</find>
+      <find>PlayerScor</find>
+      <find>player.getFrames()</find>
+      <find>map</find>
+      <find>genera</find>
+      <find>score</find>
+      <find>linea</find>
+      <find>cancel</find>
+      <find>players</find>
+      <find>total</find>
+      <find>parse</find>
+      <find>input</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>player.getPlayerScore().getFrames()</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayerScore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Game.java" />
+        <option value="$PROJECT_DIR$/src/main/java/DB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/DB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Dataset.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Games.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/DisplaySerialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/GameSerialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Display.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Bowling_Game_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View/Style/style.css" />
+        <option value="$PROJECT_DIR$/src/main/java/View/Home.fxml" />
+        <option value="$PROJECT_DIR$/src/main/java/View/MainGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Controller/Roll.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display0.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Controller/PlayGame.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View/RegisterUsersCSS.css" />
+        <option value="$PROJECT_DIR$/src/main/java/View/RegisterUsers.fxml" />
+        <option value="$PROJECT_DIR$/src/View/RegisterGameGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display7.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Controller/SmartGame.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UnitTesting/Bowling_Game_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display3.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display4.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display5.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display6.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display8.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/UnitTesting/Game_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display9.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display2.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/PlayerScore.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View/RegisterUsersGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View/DisplayGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display10.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/UnitTesting/PlayerScore_.java" />
+        <option value="$PROJECT_DIR$/src/test/java/UnitTesting/Player_.java" />
+        <option value="$PROJECT_DIR$/src/test/java/IntegrationTesting/Serialization_.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Player_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Serialization.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Controller/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/View/RegisterGameGUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Display1.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Data/Log" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/PlayerScore_.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Serialization_.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Model/Game.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="pluginUpdatePolicy" value="UPDATE" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bowling_Game" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bowling_Game" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bowling_Game" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Bowling_Game" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.zenjava:javafx-maven-plugin:8.8.3" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="103" />
+    <option name="y" value="72" />
+    <option name="width" value="1090" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Class metricsJava</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Cloning issuesJava</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>EncapsulationJava</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InitializationJava</id>
+          </State>
+          <State>
+            <id>J2ME issuesJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java interop issuesKotlin</id>
+          </State>
+          <State>
+            <id>JavaFX</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>MemoryJava</id>
+          </State>
+          <State>
+            <id>Method metricsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsJava</id>
+          </State>
+          <State>
+            <id>Naming conventionsKotlin</id>
+          </State>
+          <State>
+            <id>Packaging issuesJava</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>SecurityJava</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>VisibilityJava</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Grupo9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Grupo9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548263780749" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9\src\main\java\Images" />
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9\src\main\java\View" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9\src\main\java\Images" />
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9" />
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9\src\main\java\Model" />
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9\src\main\java" />
+      <recent name="C:\Users\quera\IdeaProjects\Grupo9\src\main\java\View\Style" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PlayerScore_">
+    <configuration name="Player_" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bowling_Game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Player_" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerScore_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bowling_Game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PlayerScore_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Player_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bowling_Game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Player_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Serialization_" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bowling_Game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Serialization_" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Serialization_.save_a_lane_bigger_than_10_should_not_create_file" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Bowling_Game" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Serialization_" />
+      <option name="METHOD_NAME" value="save_a_lane_bigger_than_10_should_not_create_file" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Serialization_" />
+      <item itemvalue="JUnit.Serialization_.save_a_lane_bigger_than_10_should_not_create_file" />
+      <item itemvalue="Android JUnit.Player_" />
+      <item itemvalue="JUnit.Player_" />
+      <item itemvalue="JUnit.PlayerScore_" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayerScore_" />
+        <item itemvalue="JUnit.Player_" />
+        <item itemvalue="Android JUnit.Player_" />
+        <item itemvalue="JUnit.Serialization_" />
+        <item itemvalue="JUnit.Serialization_.save_a_lane_bigger_than_10_should_not_create_file" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7762f364-03d3-43ce-9ba9-679122471492" name="Default Changelist" comment="" />
+      <created>1540977119696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540977119696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Serialization__roll_not_saved_because_pin_is_12 - 2018.12.17 at 18h 41m 21s.xml">
+      <configuration name="Serialization_.roll_not_saved_because_pin_is_12" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Serialization__check_total_score_after_a_roll_saved - 2018.12.17 at 19h 22m 32s.xml">
+      <configuration name="Serialization_.check_total_score_after_a_roll_saved" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Serialization_ - 2018.12.17 at 19h 22m 53s.xml">
+      <configuration name="Serialization_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Serialization__save_a_lane_bigger_than_10_should_not_create_file - 2018.12.19 at 14h 18m 41s.xml">
+      <configuration name="Serialization_.save_a_lane_bigger_than_10_should_not_create_file" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Serialization_ - 2018.12.19 at 14h 30m 19s.xml">
+      <configuration name="Serialization_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Serialization_ - 2018.12.19 at 14h 30m 55s.xml">
+      <configuration name="Serialization_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Serialization_ - 2019.01.23 at 17h 14m 47s.xml">
+      <configuration name="Serialization_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Player_ - 2019.01.23 at 17h 15m 33s.xml">
+      <configuration name="Player_" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="Player_ - 2019.01.23 at 17h 16m 02s.xml">
+      <configuration name="Player_" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PlayerScore_ - 2019.01.23 at 17h 16m 27s.xml">
+      <configuration name="PlayerScore_" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33585477" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7065053" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.39836067" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49621785" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2934947" side_tool="true" weight="0.19672132" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.6134645" weight="0.34262297" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.30983606" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.40491804" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.012859304" />
+      <window_info anchor="right" id="Module Dependencies" order="8" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2927383" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32786885" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7065053" visible="true" weight="0.3704918" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.39836067" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49621785" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.2934947" side_tool="true" weight="0.19672132" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.6134645" weight="0.34262297" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.30983606" />
+      <window_info anchor="bottom" id="Dependency Viewer" order="12" weight="0.40491804" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.012859304" />
+      <window_info anchor="right" id="Module Dependencies" order="8" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Player_.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Dataset.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Games.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/GameSerialization.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Display.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/artifacts/Bowling_Game.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/Style/style.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/Bowling.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/Home.fxml" />
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/javafx.base/com/sun/javafx/property/PropertyReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="169" selection-start-line="169" selection-end-line="169" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/java.desktop/java/beans/XMLDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="250" selection-start-line="250" selection-end-line="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/zenjava/javafx-maven-plugin/8.8.3/javafx-maven-plugin-8.8.3.jar!/META-INF/maven/com.zenjava/javafx-maven-plugin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="327" column="30" selection-start-line="327" selection-start-column="30" selection-end-line="327" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-9.0.4/lib/src.zip!/javafx.base/javafx/event/EventHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Controller/Roll.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/RegisterUsers.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/RegisterUsersCSS.css" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Images/Bowling.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Controller/SmartGame.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/javafx-src.zip!/javafx/util/Callback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="51" column="13" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display0.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display9.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display8.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display7.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display6.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display5.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display3.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display2.xml" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="554" selection-start-line="554" selection-end-line="554" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display10.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display1.xml" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/DisplayGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1971">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/RegisterGameGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2057">
+          <caret line="123" column="32" selection-start-line="123" selection-start-column="32" selection-end-line="123" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/View/RegisterUsersGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2005">
+          <caret line="58" column="45" selection-start-line="58" selection-start-column="45" selection-end-line="58" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/PlayerScore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-237">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Serialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="110" column="43" selection-start-line="110" selection-start-column="43" selection-end-line="110" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Display4.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Model/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Data/Log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/PlayerScore_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Player_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-999">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Serialization_.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="44" column="57" selection-start-line="44" selection-start-column="57" selection-end-line="44" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Bowling_Game</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Bowling_Game</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.zenjava:javafx-maven-plugin:8.8.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

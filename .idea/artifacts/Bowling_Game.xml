@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Bowling_Game">
+    <output-path>$PROJECT_DIR$/out/artifacts/Bowling_Game</output-path>
+    <root id="root">
+      <element id="archive" name="Bowling_Game.jar">
+        <element id="module-output" name="Bowling_Game" />
+      </element>
+    </root>
+  </artifact>
+</component>

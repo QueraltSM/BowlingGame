@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Game>
+<player player_name="Ana">
+<match/>
+<totalscore>0</totalscore>
+</player>
+<player player_name="Daniel">
+<match>4-3-</match>
+<totalscore>7</totalscore>
+</player>
+<game lane="1">
+<teamname>The Bowling Stones</teamname>
+<datetime>23/01/2019 17:14:46</datetime>
+</game>
+</Game>

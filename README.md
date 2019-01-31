@@ -1,5 +1,3 @@
-<b><h1>Repositorio del Grupo 9</h1></b><br>
-Equipo formado por Jaime Barreto García y Queralt Sosa Mompel<br><br><br>
 Para registrar usuarios y empezar un juego ejecutar por consola:
 <b><br><br><i>mvn exec:java -Dexec.mainClass=Main</i><br><br><br></b>
 ![captura1](https://user-images.githubusercontent.com/26334453/50293658-00ecaa80-046c-11e9-9dc8-063eb1a92530.PNG)<br><br>
